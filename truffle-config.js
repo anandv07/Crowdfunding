@@ -17,8 +17,8 @@ module.exports = {
     },
     sepolia: {
       networkCheckTimeout: 999999,
-      provider: () => new HDWalletProvider('lemon chaos special miracle book match switch record exotic omit drift dad',
-      'https://sepolia.infura.io/v3/64b1823cf6124cac926af5fee71503f9'),
+      provider: () => new HDWalletProvider('12 phrase of metamask',
+      'infura endpoint'),
       network_id: '*',
       timeoutBlocks: 200,
       gas: 5500000,
