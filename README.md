@@ -7,4 +7,4 @@ This project is developed to overcome the drawbacks in centralized nature by mak
  1) React JS
  2) solidity
  3) ganache(local developement) , infura(test network endpoint)
- 4) Test network --> sepolia
+ 4) Test network --> sepolia 
